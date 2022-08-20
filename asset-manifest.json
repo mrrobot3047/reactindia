@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactindia/static/css/main.5870961b.css",
+    "main.js": "/reactindia/static/js/main.cc09cd79.js",
+    "static/js/787.888f18b2.chunk.js": "/reactindia/static/js/787.888f18b2.chunk.js",
+    "static/media/video.mp4": "/reactindia/static/media/video.47f870d655c2133f446f.mp4",
+    "static/media/india2.png": "/reactindia/static/media/india2.498eda502d019f215945.png",
+    "static/media/karnataka.jpg": "/reactindia/static/media/karnataka.8042998e548bb02fe1ca.jpg",
+    "static/media/rajasthan.webp": "/reactindia/static/media/rajasthan.fedc0d15c68ff10c13a2.webp",
+    "static/media/tamilnadu.webp": "/reactindia/static/media/tamilnadu.215a0ec7c3455c3bdd98.webp",
+    "static/media/sikkim.jpg": "/reactindia/static/media/sikkim.b82517e8aae3232d88ce.jpg",
+    "static/media/kashmir.jpg": "/reactindia/static/media/kashmir.db4f4b9f5498b1b352af.jpg",
+    "static/media/kerala.jpg": "/reactindia/static/media/kerala.dc2ea093acc5b740f96c.jpg",
+    "static/media/logo.svg": "/reactindia/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactindia/index.html",
+    "main.5870961b.css.map": "/reactindia/static/css/main.5870961b.css.map",
+    "main.cc09cd79.js.map": "/reactindia/static/js/main.cc09cd79.js.map",
+    "787.888f18b2.chunk.js.map": "/reactindia/static/js/787.888f18b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5870961b.css",
+    "static/js/main.cc09cd79.js"
+  ]
+}
